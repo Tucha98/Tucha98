@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Tucha98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Catarina Julio.
+- Sou Formada em Engenharia Informatica.
+- Busco aprender, desenvolver copotencias para melhor operar no mercado de trabalho ofereco servicos de qualidade.
+- Desenvolvi habilidades em desenvolvimento backend usando php, desenho e gerenciamento de base de dados.
+- Actualmente estou aprendendo react js e estudando a tecnologia Blockchain com a Tech4dev.
 
-<!---
-Tucha98/Tucha98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
